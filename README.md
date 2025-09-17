@@ -4,3 +4,4 @@ WEBSITE DESIGN/REDESIGN  :- https://www.figma.com/design/7a7AkJ8sXiMafqD8qOwpR8/
 WEBSITE PREVIEW          :- https://www.figma.com/proto/7a7AkJ8sXiMafqD8qOwpR8/Bookbazar.com?page-id=0%3A1&node-id=2-29&p=f&viewport=-502%2C180%2C0.18&t=MFkRLs6iJABEPnzG-1&scaling=scale-down&content-scaling=fixed
 ANIMATED WEBSITE         :- https://www.figma.com/design/kscbjXZTfkDV7u9dG3q5zF/Drinks-with-animations?node-id=3-13&t=Am2Be7vKYdlWyCC6-1 
 ANIMATED PREVIEW         :- https://www.figma.com/proto/kscbjXZTfkDV7u9dG3q5zF/Drinks-with-animations?page-id=0%3A1&node-id=3-2&viewport=134%2C248%2C0.16&t=eqiJs5BM68PHLeMY-1&scaling=scale-down&content-scaling=fixed
+ 
